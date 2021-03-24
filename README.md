@@ -1,2 +1,1 @@
-# scp_abap
-CP ABAP en SAP Cloud BTP
+# ABAP_CLOUD_RENTING
